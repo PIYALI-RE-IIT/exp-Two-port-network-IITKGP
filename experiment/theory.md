@@ -12,10 +12,10 @@
 									<br>
 									<p style ="text-align:center;">
 									$$[[V_1], [V_2]] = [[Z_(11), Z_(12)], [Z_(21), Z_(22)]] * [[I_1] , [I_2]]$$
-									\begin{bmatrix}     
+									$$\begin{bmatrix}     
 									[V_1]             
 									[V_2]               
-									\end{bmatrix}
+									\end{bmatrix}$$
 									<br>
 									<br>
 where $$Z_(11) = (V_1/I_1)_(I_2 = 0)$$ &nbsp; &nbsp; $$Z_(12) = (V_1/I_2)_(I_1 = 0)$$
