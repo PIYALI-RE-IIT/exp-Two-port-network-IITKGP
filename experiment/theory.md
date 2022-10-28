@@ -3,11 +3,12 @@
 <br>&nbsp;&nbsp;&nbsp;
  Consider a passive two-port (4-terminal ) network as shown in figure 1.<br><br>							
 <!-- <p style="font-weight: bold; font-size: 21px">Circuit Diagram</p> -->
-<figure style="text-align:center"><img alt="" src="images/main tp.jpg" style="width:50%;height:50%;">
-									  <figcaption>[Fig 1: Circuit diagram]</figcaption>
-									</figure><br>
-									<br>
-									<p>The Voltage V<sub>1</sub>, V<sub>2</sub> and current I<sub>1</sub>, I<sub>2</sub> can be related in terms of Z-parameters as shown below.</p>
+<figure style="text-align:center">
+<img alt="" src="images/main tp.jpg" style="width:50%;height:50%;">
+<figcaption>[Fig 1: Circuit diagram]</figcaption>
+</figure><br>
+<br>
+<p>The Voltage V<sub>1</sub>, V<sub>2</sub> and current I<sub>1</sub>, I<sub>2</sub> can be related in terms of Z-parameters as shown below.</p>
 									<br>
 									<br>
 									<p style ="text-align:center;">
