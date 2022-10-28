@@ -11,7 +11,6 @@
 									<br>
 									<br>
 									<p style ="text-align:center;">
-									$$[[V_1], [V_2]] = [[Z_(11), Z_(12)], [Z_(21), Z_(22)]] * [[I_1] , [I_2]]$$
 									\begin{bmatrix}     \begin{bmatrix}   \begin{bmatrix}
 									[V_1]             = Z_(11) & Z_(21)      I_1
 									[V_2]               Z_(12) & Z_(22)      I_2 
