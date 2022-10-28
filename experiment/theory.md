@@ -5,7 +5,7 @@
 <!-- <p style="font-weight: bold; font-size: 21px">Circuit Diagram</p> -->
 <figure style="text-align:center">
 <img alt="" src="images/main tp.jpg" style="width:50%;height:50%;">
-<figcaption>[Fig 1: Circuit diagram]</figcaption>
+<br><figcaption>[Fig 1: Circuit diagram]</figcaption>
 </figure><br>
 <br>
 <p>The Voltage V<sub>1</sub>, V<sub>2</sub> and current I<sub>1</sub>, I<sub>2</sub> can be related in terms of Z-parameters as shown below.</p>
@@ -68,7 +68,7 @@ $$-D = (I_1/I_2)_(V_2 = 0)$$</p>
 									<br>
 									<br><figure style="text-align:center">
 									  <img alt="" src="images/tp main 2.JPG" style="width:50%;height:50%;">
-									  <figcaption>[Fig 2: Circuit Diagram for Cascading Mode]</figcaption>
+									  <br><figcaption>[Fig 2: Circuit Diagram for Cascading Mode]</figcaption>
 									</figure><br><br><br>
 									<p>If two networks M and N connected in cascade then the total transmission matrix T of the overall network is given by,</p>
 									<br>
